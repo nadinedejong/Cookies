@@ -1,1 +1,14 @@
 @CHARSET "ISO-8859-1";
+
+body.dark{
+	background-color: darkSlateGray
+}
+
+body.light{
+	background-color: whiteSmoke
+}
+p.light{
+	text-color: green
+}
+
+
